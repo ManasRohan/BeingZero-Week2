@@ -1,0 +1,23 @@
+{
+  "name": "beingzero-week2",
+  "version": "1.0.0",
+  "description": "Hello World\r MEAN FULL STACK DEV - WEEK2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManasRohan/BeingZero-Week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManasRohan/BeingZero-Week2/issues"
+  },
+  "homepage": "https://github.com/ManasRohan/BeingZero-Week2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
